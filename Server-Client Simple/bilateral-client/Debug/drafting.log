@@ -1,0 +1,18 @@
+﻿2015/12/04 15:52:38 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\whashimo\Desktop\Server-Client\Server-Client(小) 改良版2 Simple\bilateral-client\drafting.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"c:\ADLINK\PCIS-DASK\Include" /I"c:\glut-3.7\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt connect.cpp main.cpp socket.cpp
+         socket.cpp
+         main.cpp
+         connect.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\drafting.exe" /INCREMENTAL /NOLOGO /LIBPATH:"c:\ADLINK\PCIS-DASK\Lib" /LIBPATH:"c:\glut-3.7\lib\glut" glut32.lib winmm.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\drafting.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\drafting.lib" /MACHINE:X86 /SAFESEH:NO Debug\connect.obj
+         Debug\main.obj
+         Debug\socket.obj
+         drafting.vcxproj -> C:\Users\whashimo\Desktop\Server-Client\Server-Client(小) 改良版2 Simple\bilateral-client\Debug\drafting.exe
+     1>プロジェクト "C:\Users\whashimo\Desktop\Server-Client\Server-Client(小) 改良版2 Simple\bilateral-client\drafting.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:03.65
